@@ -64,6 +64,33 @@ Expected Impact
 
 This interaction provides clear clickability signifiers, transforming the product card from a passive image into an interactive element. This reduces user hesitation and increases the likelihood that users will explore individual products.
 
+
+3. Image Size and Layout Balance
+
+### Problem
+
+The images used on the website are excessively large, which disrupts the overall layout and alignment. Because of their size, they dominate the screen and push other important elements out of proper proportion.
+
+This creates an unbalanced design and negatively affects readability and visual hierarchy.
+
+### Proposed Improvement
+
+Reduce and standardize the image sizes to better fit within the layout structure.
+
+**Design Adjustments**
+
+* Decrease image dimensions to maintain balance with surrounding elements
+* Use consistent **image sizing across all sections**
+* Ensure images fit properly within their containers without overflowing
+* Maintain a consistent **aspect ratio** to avoid distortion
+
+### Expected Impact
+
+By minimizing image sizes, the layout becomes more balanced and visually organized. This improves **content readability**, strengthens **visual hierarchy**, and creates a more professional and user-friendly interface.
+
+---
+
+
 UX Principles Applied
 
 This redesign focuses on improving:
